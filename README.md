@@ -1,7 +1,5 @@
 # spieeltjie
 
-## Description
-
 This is a single-file package for doing simple experiments with multi-agent reinforcement learning on  symmetric zero-sum games. For more information see ["Open-ended learning in Symmetric Zero-Sum Games"](https://arxiv.org/abs/1901.08106) and ["A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning"](https://arxiv.org/abs/1711.00832). The name "spieeltjie" comes from the Afrikaans word for "tournament".
 
 ## Gallery
